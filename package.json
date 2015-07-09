@@ -1,0 +1,29 @@
+{
+  "name": "array-wrap",
+  "version": "0.0.1",
+  "description": "Wrap to array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnst/array-wrap.git"
+  },
+  "keywords": [
+    "array",
+    "wrap"
+  ],
+  "author": "jnst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnst/array-wrap/issues"
+  },
+  "homepage": "https://github.com/jnst/array-wrap",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
