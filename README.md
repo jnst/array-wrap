@@ -1,4 +1,4 @@
-# array-wrap
+# array-wrap [![Build Status](https://travis-ci.org/jnst/array-wrap.svg?branch=master)](https://travis-ci.org/jnst/array-wrap)
 
 Wrap to array
 
